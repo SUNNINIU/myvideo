@@ -1,5 +1,5 @@
 # myvideo
-1.本应该采用实现GestureDetector手势识别 + Vitamio视频播放器实现在线流畅显示播放打造自己的在线万能播放器
+1.本应该采用实现GestureDetector手势识别 + Vitamio视频播放器实现在线流畅显示播放打造自己的在线万能播放器                        
 2.采用OkHttp框架加载网络数据，Gson对Json数据解析;          
 3.Handler实现线程通讯，EventBus发布/订阅事件总线           
 4.SharedPreference和SQLiteDataBase存取数据 
